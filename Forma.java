@@ -1,3 +1,4 @@
+//clase abstracta
 public abstract class  Forma{
 
   protected int posicionX;
