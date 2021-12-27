@@ -1,0 +1,13 @@
+El patrón de método de fábrica es uno de los varios patrones de diseño de
+creación que usamos a menudo en Java. Su propósito es hacer que el proceso
+de creación de objetos sea más simple, más modular y más escalable.
+
+Estos patrones controlan la forma en que definimos y diseñamos los objetos, así como cómo los instanciamos.
+Algunos encapsulan la lógica de creación lejos de los usuarios y manejan la
+creación (Factory y Abstract Factory), algunos se enfocan en el proceso de
+construcción de los objetos en sí mismos (Builder), algunos minimizan el
+costo de creación (Prototype) y algunos controlan el número de instancias
+en el JVM completo (Singleton).
+
+Específicamente, el método Factory y Abstract Factory son muy comunes en
+ el desarrollo de software Java.
